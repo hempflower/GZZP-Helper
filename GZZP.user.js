@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         GZZP Helper
+// @name         综合素质评价辅助脚本
 // @namespace    http://www.mahua-a.top
 // @version      0.1
-// @description  try to take over the world!
+// @description  使用自动化的脚本来应付繁琐而又重复的填写过程
 // @author       Michael Xiao
 // @match      http://gzzp.jlipedu.cn/eedu_base/r_index.do*
 // @require    https://unpkg.com/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js
