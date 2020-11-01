@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  使用自动化的脚本来应付繁琐而又重复的填写过程
 // @author       Michael Xiao
-// @match      http://gzzp.jlipedu.cn/eedu_base/r_index.do*
-// @require    https://unpkg.com/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js
+// @match        http://gzzp.jlipedu.cn/eedu_base/r_index.do*
+// @require      https://unpkg.com/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js
 // @grant        none
 // ==/UserScript==
 // I Love Zhou Xun!
